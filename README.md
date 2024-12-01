@@ -25,5 +25,6 @@ The project is built using Python and the Streamlit library for the user interfa
 - NumPy
 
 ## Author
-Hemant Singh Meena
+Sumit Kumar 
+
 
